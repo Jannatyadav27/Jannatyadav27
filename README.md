@@ -10,13 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jannatportfolio.netlify.app/](https://jannatportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/5563768578087866727](https://www.blogger.com/blog/posts/5563768578087866727)
 
-- 📫 How to reach me **jannatyadav270@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mFnqmSWdZ3yhrFKUnDUMphafUxj9ptCl/view?usp=sharing](https://drive.google.com/file/d/1mFnqmSWdZ3yhrFKUnDUMphafUxj9ptCl/view?usp=sharing)
-
-- ⚡ Fun fact **I think I'm Funny 😹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
