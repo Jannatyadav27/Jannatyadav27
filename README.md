@@ -16,16 +16,12 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mFnqmSWdZ3yhrFKUnDUMphafUxj9ptCl/view?usp=sharing](https://drive.google.com/file/d/1mFnqmSWdZ3yhrFKUnDUMphafUxj9ptCl/view?usp=sharing)
 
-- ⚡ Fun fact **I am NCC B Cert Holder**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I think I'm Funny 😹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/jannat-the-looper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jannat-the-looper" height="30" width="40" /></a>
-<a href="https://dev.to/jannatyadav27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jannatyadav27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jannat-yadav-b4227a255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jannat-yadav-b4227a255" height="30" width="40" /></a>
+<a href="https://instagram.com/jannat_pvt27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jannat_pvt27" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jannat_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jannat_27" height="30" width="40" /></a>
 </p>
 
